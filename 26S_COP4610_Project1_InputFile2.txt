@@ -1,0 +1,6 @@
+0x0898
+
+int num1 = 55;
+int num2 = 17;
+double d1 = 3.1415;
+char c1 = 'Q';
